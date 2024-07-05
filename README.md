@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashkiv
-- 👀 I’m interested in devlopment
-- 🌱 I’m currently learning java
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning azure
 - 💞️ I’m looking to collaborate on new tehnology
 - 📫 How to reach me ashpeshwe@gmal.com
 
